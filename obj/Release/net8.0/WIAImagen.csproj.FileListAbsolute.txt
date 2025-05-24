@@ -1,0 +1,17 @@
+D:\proyectos c#\WIAImagen\WIAImagen\bin\Release\net8.0\WIAImagen.exe
+D:\proyectos c#\WIAImagen\WIAImagen\bin\Release\net8.0\WIAImagen.deps.json
+D:\proyectos c#\WIAImagen\WIAImagen\bin\Release\net8.0\WIAImagen.runtimeconfig.json
+D:\proyectos c#\WIAImagen\WIAImagen\bin\Release\net8.0\WIAImagen.dll
+D:\proyectos c#\WIAImagen\WIAImagen\bin\Release\net8.0\WIAImagen.pdb
+D:\proyectos c#\WIAImagen\WIAImagen\bin\Release\net8.0\Interop.WIA.dll
+D:\proyectos c#\WIAImagen\WIAImagen\obj\Release\net8.0\Interop.WIA.dll
+D:\proyectos c#\WIAImagen\WIAImagen\obj\Release\net8.0\WIAImagen.csproj.ResolveComReference.cache
+D:\proyectos c#\WIAImagen\WIAImagen\obj\Release\net8.0\WIAImagen.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos c#\WIAImagen\WIAImagen\obj\Release\net8.0\WIAImagen.AssemblyInfoInputs.cache
+D:\proyectos c#\WIAImagen\WIAImagen\obj\Release\net8.0\WIAImagen.AssemblyInfo.cs
+D:\proyectos c#\WIAImagen\WIAImagen\obj\Release\net8.0\WIAImagen.csproj.CoreCompileInputs.cache
+D:\proyectos c#\WIAImagen\WIAImagen\obj\Release\net8.0\WIAImagen.dll
+D:\proyectos c#\WIAImagen\WIAImagen\obj\Release\net8.0\refint\WIAImagen.dll
+D:\proyectos c#\WIAImagen\WIAImagen\obj\Release\net8.0\WIAImagen.pdb
+D:\proyectos c#\WIAImagen\WIAImagen\obj\Release\net8.0\WIAImagen.genruntimeconfig.cache
+D:\proyectos c#\WIAImagen\WIAImagen\obj\Release\net8.0\ref\WIAImagen.dll
